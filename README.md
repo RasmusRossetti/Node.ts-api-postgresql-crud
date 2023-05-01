@@ -1,7 +1,9 @@
 # How to start
+## Available Scripts
 
-1. npm install
-2. npm run dev
+In the project directory you can run:
+### `npm install`
+### `npm run dev`
 
 # Node.ts-api-postgresql-crud
 
@@ -15,11 +17,7 @@ This was a practise api project made with node typescript and is connected to a 
 - Delete notes
 - Update notes
 
-## Available Scripts
 
-In the project directory of MAYA-frontend, you can run:
-### `npm install`
-### `npm run dev`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
