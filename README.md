@@ -1,2 +1,4 @@
-# Node.ts-api-postgresql-crud
-An api built with node and typescript connected to postgresql db.
+# How to start
+
+1. npm install
+2. npm run dev
