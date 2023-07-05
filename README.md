@@ -44,4 +44,4 @@ const port: number = 8000
 If you have any suggestions or issues with the app, please contact me at rasmus.rossetti@hotmail.com.
 
 ## About the Developer
-Umain-task  was developed by Rasmus Rossetti, an experienced app developer with a passion for creating simple, yet powerful apps that make life easier. If you have any questions or would like to ask me any questions, please feel free to get in touch.
+This project was developed by Rasmus Rossetti, an experienced app developer with a passion for creating simple, yet powerful apps that make life easier. If you have any questions or would like to ask me any questions, please feel free to get in touch.
